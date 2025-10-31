@@ -49,3 +49,5 @@ This MVP focuses on building the **foundation** — authentication, gameplay, an
 
 ## 🧱 Project Structure  
 
+Pitch deck: https://www.notion.so/LOCUS-BLASTER-Web3-2963a66d1cdc80edac9cf24c75516b16?source=copy_link
+Certification: https://x.com/botf_x/status/1982054031884460140
