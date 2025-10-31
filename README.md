@@ -50,16 +50,16 @@ This MVP focuses on building the **foundation** — authentication, gameplay, an
 Pitch deck: https://www.notion.so/LOCUS-BLASTER-Web3-2963a66d1cdc80edac9cf24c75516b16?source=copy_link
 Certification: https://x.com/botf_x/status/1982054031884460140
 
-**👤 Developer**
+## 👤 Developer
 Solo Developer: Oluwadamilare Obalana
 🎮 Game Developer | Unreal Engine | Web3 Integration
 💡 Passionate about blending immersive gameplay with decentralized technology.
 
-**🌐 Live Demo**
+## 🌐 Live Demo
 🎮 Playable Build (Pixel Streaming):
 👉 https://bit.ly/47xB8Yh
 
-**🪙 Acknowledgements**
+## 🪙 Acknowledgements
 Hedera Hashgraph
  — Web3 infrastructure
 Arcware
@@ -67,7 +67,7 @@ Arcware
 Unreal Engine
  — Game engine
 
-**🧾 Hackathon Summary**
+## 🧾 Hackathon Summary
 Project Name: Locus Blaster
 Category: GameFi / Crypto Adoption / Creator Economy
 Layer-1: Hedera
